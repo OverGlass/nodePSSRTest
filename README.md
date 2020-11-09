@@ -1,4 +1,4 @@
-# nodeSSRTest
+# nodePSSRTest
 Test Progressive Rendering With Node/ExpressJS
 Serve a HTML chunk each 100ms
 ```sh

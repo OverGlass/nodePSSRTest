@@ -1,5 +1,6 @@
 # nodeSSRTest
 Test Progressive Rendering With Node/ExpressJS
+Serve a HTML chunk each 100ms
 ```sh
 npm install
 npm pssr.js
